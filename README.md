@@ -1,7 +1,7 @@
 # Algorithm_03
 
 ###1. MODEL 1 : 3 Layers with 1 Convolution layer  
-------------------  
+ 
 ![model1-1](https://user-images.githubusercontent.com/56299516/83453940-5537ee80-a496-11ea-9f5a-a7af973b7364.PNG)    
 ###2. MODEL 1 : Training with Training loss  
 ------------------  
